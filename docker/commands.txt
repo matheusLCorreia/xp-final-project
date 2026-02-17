@@ -1,0 +1,1 @@
+docker run -d --name=grafana --user "$(id -u)" -v /etc/grafana/conf:/etc/grafana -v /etc/grafana/data:/var/lib/grafana -p 3000:3000 grafana/grafana;

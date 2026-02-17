@@ -1,0 +1,17 @@
+{"timestamp":"2026-02-16T18:21:31.822867Z","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager","filename":"manager.py","lineno":179}
+{"timestamp":"2026-02-16T18:21:31.823209Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/flight_schedule.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-02-16T18:21:32.208650Z","level":"warning","event":"pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.","category":"UserWarning","filename":"/opt/airflow/dags/flight_schedule.py","lineno":102,"logger":"py.warnings"}
+{"timestamp":"2026-02-16T18:21:32.211111Z","level":"info","event":"Execution failed on sql '","logger":"task.stdout"}
+{"timestamp":"2026-02-16T18:21:32.211177Z","level":"info","event":"        SELECT","logger":"task.stdout"}
+{"timestamp":"2026-02-16T18:21:32.211204Z","level":"info","event":"            name","logger":"task.stdout"}
+{"timestamp":"2026-02-16T18:21:32.211225Z","level":"info","event":"        FROM","logger":"task.stdout"}
+{"timestamp":"2026-02-16T18:21:32.211243Z","level":"info","event":"            sqlite_master","logger":"task.stdout"}
+{"timestamp":"2026-02-16T18:21:32.211262Z","level":"info","event":"        WHERE","logger":"task.stdout"}
+{"timestamp":"2026-02-16T18:21:32.211280Z","level":"info","event":"            type IN ('table', 'view')","logger":"task.stdout"}
+{"timestamp":"2026-02-16T18:21:32.211298Z","level":"info","event":"            AND name=?;","logger":"task.stdout"}
+{"timestamp":"2026-02-16T18:21:32.211316Z","level":"info","event":"        ': syntax error at or near \";\"","logger":"task.stdout"}
+{"timestamp":"2026-02-16T18:21:32.211333Z","level":"info","event":"LINE 8:             AND name=?;","logger":"task.stdout"}
+{"timestamp":"2026-02-16T18:21:32.211351Z","level":"info","event":"                              ^","logger":"task.stdout"}
+{"timestamp":"2026-02-16T18:21:32.211368Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-02-16T18:21:32.211295Z","level":"info","event":"Done. Returned value was: 1","logger":"airflow.task.operators.airflow.providers.standard.decorators.python._PythonDecoratedOperator","filename":"python.py","lineno":230}
+{"timestamp":"2026-02-16T18:21:32.211449Z","level":"info","event":"Pushing xcom","ti":"RuntimeTaskInstance(id=UUID('019c67af-a601-7bc3-b258-30a97e03be9d'), task_id='insert_flights', dag_id='flight_schedule', run_id='manual__2026-02-16T18:21:30.482945+00:00', try_number=1, dag_version_id=UUID('019c6791-1a94-7d02-85cf-3e352b0c6b42'), map_index=-1, hostname='db0f15946735', context_carrier={}, task=<Task(_PythonDecoratedOperator): insert_flights>, bundle_instance=LocalDagBundle(name=dags-folder), max_tries=0, start_date=datetime.datetime(2026, 2, 16, 18, 21, 31, 805393, tzinfo=datetime.timezone.utc), end_date=None, state=<TaskInstanceState.RUNNING: 'running'>, is_mapped=False, rendered_map_index=None)","logger":"task","filename":"task_runner.py","lineno":1522}

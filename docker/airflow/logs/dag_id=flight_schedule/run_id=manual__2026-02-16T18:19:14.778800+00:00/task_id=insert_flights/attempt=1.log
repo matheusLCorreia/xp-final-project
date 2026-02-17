@@ -1,0 +1,17 @@
+{"timestamp":"2026-02-16T18:19:16.643213Z","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager","filename":"manager.py","lineno":179}
+{"timestamp":"2026-02-16T18:19:16.643572Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/flight_schedule.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-02-16T18:19:17.013562Z","level":"info","event":"     aircraft_icao24 aircraft_icaocode  ...     status       type","logger":"task.stdout"}
+{"timestamp":"2026-02-16T18:19:17.013723Z","level":"info","event":"0               None              None  ...  scheduled  departure","logger":"task.stdout"}
+{"timestamp":"2026-02-16T18:19:17.013786Z","level":"info","event":"1               None              None  ...  scheduled  departure","logger":"task.stdout"}
+{"timestamp":"2026-02-16T18:19:17.013814Z","level":"info","event":"2               None              None  ...  scheduled  departure","logger":"task.stdout"}
+{"timestamp":"2026-02-16T18:19:17.013837Z","level":"info","event":"3               None              None  ...  scheduled  departure","logger":"task.stdout"}
+{"timestamp":"2026-02-16T18:19:17.013858Z","level":"info","event":"4               None              None  ...  scheduled  departure","logger":"task.stdout"}
+{"timestamp":"2026-02-16T18:19:17.013879Z","level":"info","event":"...              ...               ...  ...        ...        ...","logger":"task.stdout"}
+{"timestamp":"2026-02-16T18:19:17.013899Z","level":"info","event":"1397            None              None  ...  scheduled  departure","logger":"task.stdout"}
+{"timestamp":"2026-02-16T18:19:17.013918Z","level":"info","event":"1398            None              None  ...  scheduled  departure","logger":"task.stdout"}
+{"timestamp":"2026-02-16T18:19:17.013938Z","level":"info","event":"1399            None              None  ...  scheduled  departure","logger":"task.stdout"}
+{"timestamp":"2026-02-16T18:19:17.013957Z","level":"info","event":"1400            None              None  ...  scheduled  departure","logger":"task.stdout"}
+{"timestamp":"2026-02-16T18:19:17.013977Z","level":"info","event":"1401            None              None  ...  scheduled  departure","logger":"task.stdout"}
+{"timestamp":"2026-02-16T18:19:17.014002Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-02-16T18:19:17.014024Z","level":"info","event":"[1402 rows x 39 columns]","logger":"task.stdout"}
+{"timestamp":"2026-02-16T18:19:17.013682Z","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.decorators.python._PythonDecoratedOperator","filename":"python.py","lineno":230}

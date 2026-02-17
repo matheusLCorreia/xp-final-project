@@ -1,0 +1,5404 @@
+{
+    "pagination": {
+        "limit": null,
+        "offset": null,
+        "count": 112,
+        "total": 112
+    },
+    "data": [
+        {
+            "aircraft": {
+                "icao24": "",
+                "icaoCode": "33X",
+                "regNumber": ""
+            },
+            "airline": {
+                "iataCode": "M7",
+                "icaoCode": "MAA",
+                "name": "Masair"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "NLU",
+                "icaoCode": "MMSM",
+                "scheduledTime": "2026-02-16T12:15:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T05:35:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "M76442",
+                "icaoNumber": "MAA6442",
+                "number": "6442"
+            },
+            "status": "unknown",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E4962E",
+                "icaoCode": "A21N",
+                "regNumber": "PR-YJD"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": "S03",
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T08:48:00.000",
+                "gate": null,
+                "iataCode": "REC",
+                "icaoCode": "SBRF",
+                "scheduledTime": "2026-02-16T09:00:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": "2026-02-16T06:04:00.000",
+                "actualTime": "2026-02-16T06:04:00.000",
+                "baggage": null,
+                "delay": "5",
+                "estimatedRunway": "2026-02-16T06:04:00.000",
+                "estimatedTime": "2026-02-16T05:55:00.000",
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T06:00:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD4079",
+                "icaoNumber": "AZU4079",
+                "number": "4079"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E49AA9",
+                "icaoCode": "A20N",
+                "regNumber": "PR-XBN"
+            },
+            "airline": {
+                "iataCode": "LA",
+                "icaoCode": "LAN",
+                "name": "LATAM Airlines"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T07:20:00.000",
+                "gate": null,
+                "iataCode": "BSB",
+                "icaoCode": "SBBR",
+                "scheduledTime": "2026-02-16T07:35:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": "2026-02-16T06:08:00.000",
+                "actualTime": "2026-02-16T06:08:00.000",
+                "baggage": null,
+                "delay": "9",
+                "estimatedRunway": "2026-02-16T06:08:00.000",
+                "estimatedTime": "2026-02-16T06:13:00.000",
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T06:00:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "LA3237",
+                "icaoNumber": "LAN3237",
+                "number": "3237"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "",
+                "icaoCode": "B762",
+                "regNumber": ""
+            },
+            "airline": {
+                "iataCode": "UC",
+                "icaoCode": "LCO",
+                "name": "LATAM Cargo Chile"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "SCL",
+                "icaoCode": "SCEL",
+                "scheduledTime": "2026-02-16T09:05:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": "10",
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T06:10:00.000",
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T06:00:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "UC1507",
+                "icaoNumber": "LCO1507",
+                "number": "1507"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E495B3",
+                "icaoCode": "A20N",
+                "regNumber": "PR-YSE"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": "5",
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T08:09:00.000",
+                "gate": null,
+                "iataCode": "SSA",
+                "icaoCode": "SBSV",
+                "scheduledTime": "2026-02-16T08:35:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": "2026-02-16T06:14:00.000",
+                "actualTime": "2026-02-16T06:14:00.000",
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": "2026-02-16T06:14:00.000",
+                "estimatedTime": "2026-02-16T06:03:00.000",
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T06:15:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD4942",
+                "icaoNumber": "AZU4942",
+                "number": "4942"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E495B2",
+                "icaoCode": "A20N",
+                "regNumber": "PR-YSF"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T07:10:00.000",
+                "gate": "105",
+                "iataCode": "CNF",
+                "icaoCode": "SBCF",
+                "scheduledTime": "2026-02-16T07:30:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": "2026-02-16T06:18:00.000",
+                "actualTime": "2026-02-16T06:18:00.000",
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": "2026-02-16T06:18:00.000",
+                "estimatedTime": "2026-02-16T06:08:00.000",
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T06:20:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD4043",
+                "icaoNumber": "AZU4043",
+                "number": "4043"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E48E05",
+                "icaoCode": "E195",
+                "regNumber": "PR-AXP"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T08:44:00.000",
+                "gate": "104",
+                "iataCode": "CNF",
+                "icaoCode": "SBCF",
+                "scheduledTime": "2026-02-16T09:05:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": "2026-02-16T07:54:00.000",
+                "actualTime": "2026-02-16T07:54:00.000",
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": "2026-02-16T07:54:00.000",
+                "estimatedTime": "2026-02-16T07:46:00.000",
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T07:55:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD2658",
+                "icaoNumber": "AZU2658",
+                "number": "2658"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E49866",
+                "icaoCode": "A20N",
+                "regNumber": "PR-YSI"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": "E01",
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T10:22:00.000",
+                "gate": null,
+                "iataCode": "MCZ",
+                "icaoCode": "SBMO",
+                "scheduledTime": "2026-02-16T10:40:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": "2026-02-16T07:53:00.000",
+                "actualTime": "2026-02-16T07:53:00.000",
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": "2026-02-16T07:53:00.000",
+                "estimatedTime": "2026-02-16T07:44:00.000",
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T07:55:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD4025",
+                "icaoNumber": "AZU4025",
+                "number": "4025"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E49369",
+                "icaoCode": "A20N",
+                "regNumber": "PR-YRL"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": "7",
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T09:52:00.000",
+                "gate": null,
+                "iataCode": "POA",
+                "icaoCode": "SBPA",
+                "scheduledTime": "2026-02-16T09:45:00.000",
+                "terminal": "1"
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": "2026-02-16T08:32:00.000",
+                "actualTime": "2026-02-16T08:32:00.000",
+                "baggage": null,
+                "delay": "27",
+                "estimatedRunway": "2026-02-16T08:32:00.000",
+                "estimatedTime": "2026-02-16T08:18:00.000",
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T08:05:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD2608",
+                "icaoNumber": "AZU2608",
+                "number": "2608"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E492B0",
+                "icaoCode": "A20N",
+                "regNumber": "PR-YRA"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T10:05:00.000",
+                "gate": null,
+                "iataCode": "PMW",
+                "icaoCode": "SBPJ",
+                "scheduledTime": "2026-02-16T10:20:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": "2026-02-16T08:10:00.000",
+                "actualTime": "2026-02-16T08:10:00.000",
+                "baggage": null,
+                "delay": "6",
+                "estimatedRunway": "2026-02-16T08:10:00.000",
+                "estimatedTime": "2026-02-16T08:02:00.000",
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T08:05:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD2806",
+                "icaoNumber": "AZU2806",
+                "number": "2806"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E49640",
+                "icaoCode": "E295",
+                "regNumber": "PS-AEF"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T09:01:00.000",
+                "gate": null,
+                "iataCode": "SDU",
+                "icaoCode": "SBRJ",
+                "scheduledTime": "2026-02-16T09:10:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": "2026-02-16T08:14:00.000",
+                "actualTime": "2026-02-16T08:14:00.000",
+                "baggage": null,
+                "delay": "5",
+                "estimatedRunway": "2026-02-16T08:14:00.000",
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T08:10:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD2924",
+                "icaoNumber": "AZU2924",
+                "number": "2924"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E49A2E",
+                "icaoCode": "A20N",
+                "regNumber": "PR-YSK"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T09:39:00.000",
+                "gate": null,
+                "iataCode": "IGU",
+                "icaoCode": "SBFI",
+                "scheduledTime": "2026-02-16T09:45:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": "2026-02-16T08:17:00.000",
+                "actualTime": "2026-02-16T08:17:00.000",
+                "baggage": null,
+                "delay": "7",
+                "estimatedRunway": "2026-02-16T08:17:00.000",
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T08:10:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD2955",
+                "icaoNumber": "AZU2955",
+                "number": "2955"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E4936A",
+                "icaoCode": "A20N",
+                "regNumber": "PR-YRK"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T09:33:00.000",
+                "gate": null,
+                "iataCode": "GYN",
+                "icaoCode": "SBGO",
+                "scheduledTime": "2026-02-16T09:45:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": "2026-02-16T08:18:00.000",
+                "actualTime": "2026-02-16T08:18:00.000",
+                "baggage": null,
+                "delay": "4",
+                "estimatedRunway": "2026-02-16T08:18:00.000",
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T08:15:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD2695",
+                "icaoNumber": "AZU2695",
+                "number": "2695"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E49A96",
+                "icaoCode": "E295",
+                "regNumber": "PS-AEO"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T09:33:00.000",
+                "gate": null,
+                "iataCode": "XAP",
+                "icaoCode": "SBCH",
+                "scheduledTime": "2026-02-16T09:45:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": "2026-02-16T08:20:00.000",
+                "actualTime": "2026-02-16T08:20:00.000",
+                "baggage": null,
+                "delay": "5",
+                "estimatedRunway": "2026-02-16T08:20:00.000",
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T08:15:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD4363",
+                "icaoNumber": "AZU4363",
+                "number": "4363"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E49EC9",
+                "icaoCode": "A20N",
+                "regNumber": "PR-YSR"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T09:35:00.000",
+                "gate": null,
+                "iataCode": "CAC",
+                "icaoCode": "SBCA",
+                "scheduledTime": "2026-02-16T09:45:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": "2026-02-16T08:29:00.000",
+                "actualTime": "2026-02-16T08:29:00.000",
+                "baggage": null,
+                "delay": "9",
+                "estimatedRunway": "2026-02-16T08:29:00.000",
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T08:20:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD4586",
+                "icaoNumber": "AZU4586",
+                "number": "4586"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E49699",
+                "icaoCode": "A20N",
+                "regNumber": "PR-YSH"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": "7",
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T10:28:00.000",
+                "gate": null,
+                "iataCode": "SSA",
+                "icaoCode": "SBSV",
+                "scheduledTime": "2026-02-16T10:40:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": "2026-02-16T08:34:00.000",
+                "actualTime": "2026-02-16T08:34:00.000",
+                "baggage": null,
+                "delay": "9",
+                "estimatedRunway": "2026-02-16T08:34:00.000",
+                "estimatedTime": "2026-02-16T08:24:00.000",
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T08:25:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD4765",
+                "icaoNumber": "AZU4765",
+                "number": "4765"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E4962D",
+                "icaoCode": "A20N",
+                "regNumber": "PR-YSG"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T11:30:00.000",
+                "gate": null,
+                "iataCode": "BEL",
+                "icaoCode": "SBBE",
+                "scheduledTime": "2026-02-16T11:50:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": "2026-02-16T08:30:00.000",
+                "actualTime": "2026-02-16T08:30:00.000",
+                "baggage": null,
+                "delay": "6",
+                "estimatedRunway": "2026-02-16T08:30:00.000",
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T08:25:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD4840",
+                "icaoNumber": "AZU4840",
+                "number": "4840"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E495D0",
+                "icaoCode": "A21N",
+                "regNumber": "PR-YJC"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": "S02",
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T11:24:00.000",
+                "gate": null,
+                "iataCode": "REC",
+                "icaoCode": "SBRF",
+                "scheduledTime": "2026-02-16T11:35:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": "2026-02-16T08:39:00.000",
+                "actualTime": "2026-02-16T08:39:00.000",
+                "baggage": null,
+                "delay": "5",
+                "estimatedRunway": "2026-02-16T08:39:00.000",
+                "estimatedTime": "2026-02-16T08:29:00.000",
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T08:35:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD2922",
+                "icaoNumber": "AZU2922",
+                "number": "2922"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "3C70C6",
+                "icaoCode": "B77L",
+                "regNumber": "D-ALFF"
+            },
+            "airline": {
+                "iataCode": "LH",
+                "icaoCode": "DLH",
+                "name": "Lufthansa"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T10:41:00.000",
+                "gate": null,
+                "iataCode": "MVD",
+                "icaoCode": "SUMU",
+                "scheduledTime": "2026-02-16T11:15:00.000",
+                "terminal": null
+            },
+            "codeshared": {
+                "airline": {
+                    "iataCode": "gec",
+                    "icaoCode": "gec",
+                    "name": "lufthansa cargo"
+                },
+                "flight": {
+                    "iataNumber": "gec8264",
+                    "icaoNumber": "gec8264",
+                    "number": "8264"
+                }
+            },
+            "departure": {
+                "actualRunway": "2026-02-16T08:37:00.000",
+                "actualTime": "2026-02-16T08:37:00.000",
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": "2026-02-16T08:37:00.000",
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T08:40:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "LH8265",
+                "icaoNumber": "DLH8265",
+                "number": "8265"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "3C70C6",
+                "icaoCode": "B77L",
+                "regNumber": "D-ALFF"
+            },
+            "airline": {
+                "iataCode": "GEC",
+                "icaoCode": "GEC",
+                "name": "Lufthansa Cargo"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T10:41:00.000",
+                "gate": null,
+                "iataCode": "MVD",
+                "icaoCode": "SUMU",
+                "scheduledTime": "2026-02-16T11:15:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": "2026-02-16T08:37:00.000",
+                "actualTime": "2026-02-16T08:37:00.000",
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": "2026-02-16T08:37:00.000",
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T08:40:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "GEC8264",
+                "icaoNumber": "GEC8264",
+                "number": "8264"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E49512",
+                "icaoCode": "A21N",
+                "regNumber": "PR-YJA"
+            },
+            "airline": {
+                "iataCode": "TP",
+                "icaoCode": "TAP",
+                "name": "TAP Air Portugal"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T11:47:00.000",
+                "gate": null,
+                "iataCode": "FOR",
+                "icaoCode": "SBFZ",
+                "scheduledTime": "2026-02-16T12:00:00.000",
+                "terminal": null
+            },
+            "codeshared": {
+                "airline": {
+                    "iataCode": "ad",
+                    "icaoCode": "azu",
+                    "name": "azul"
+                },
+                "flight": {
+                    "iataNumber": "ad4712",
+                    "icaoNumber": "azu4712",
+                    "number": "4712"
+                }
+            },
+            "departure": {
+                "actualRunway": "2026-02-16T08:53:00.000",
+                "actualTime": "2026-02-16T08:53:00.000",
+                "baggage": null,
+                "delay": "13",
+                "estimatedRunway": "2026-02-16T08:53:00.000",
+                "estimatedTime": "2026-02-16T08:43:00.000",
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T08:40:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "TP5056",
+                "icaoNumber": "TAP5056",
+                "number": "5056"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E49512",
+                "icaoCode": "A21N",
+                "regNumber": "PR-YJA"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T11:47:00.000",
+                "gate": null,
+                "iataCode": "FOR",
+                "icaoCode": "SBFZ",
+                "scheduledTime": "2026-02-16T12:00:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": "2026-02-16T08:53:00.000",
+                "actualTime": "2026-02-16T08:53:00.000",
+                "baggage": null,
+                "delay": "13",
+                "estimatedRunway": "2026-02-16T08:53:00.000",
+                "estimatedTime": "2026-02-16T08:43:00.000",
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T08:40:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD4712",
+                "icaoNumber": "AZU4712",
+                "number": "4712"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E49390",
+                "icaoCode": "A20N",
+                "regNumber": "PR-YYF"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T09:56:00.000",
+                "gate": null,
+                "iataCode": "PFB",
+                "icaoCode": "SBPF",
+                "scheduledTime": "2026-02-16T10:15:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": "2026-02-16T08:42:00.000",
+                "actualTime": "2026-02-16T08:42:00.000",
+                "baggage": null,
+                "delay": "3",
+                "estimatedRunway": "2026-02-16T08:42:00.000",
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T08:40:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD4854",
+                "icaoNumber": "AZU4854",
+                "number": "4854"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E494B4",
+                "icaoCode": "A20N",
+                "regNumber": "PR-YRZ"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": "9",
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T11:38:00.000",
+                "gate": null,
+                "iataCode": "MAO",
+                "icaoCode": "SBEG",
+                "scheduledTime": "2026-02-16T11:30:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": "2026-02-16T09:19:00.000",
+                "actualTime": "2026-02-16T09:19:00.000",
+                "baggage": null,
+                "delay": "34",
+                "estimatedRunway": "2026-02-16T09:19:00.000",
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T08:45:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD2943",
+                "icaoNumber": "AZU2943",
+                "number": "2943"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E49D21",
+                "icaoCode": "E295",
+                "regNumber": "PS-AEQ"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": "2026-02-16T09:30:00.000",
+                "actualTime": "2026-02-16T09:30:00.000",
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": "2026-02-16T09:30:00.000",
+                "estimatedTime": "2026-02-16T09:31:00.000",
+                "gate": null,
+                "iataCode": "NVT",
+                "icaoCode": "SBNF",
+                "scheduledTime": "2026-02-16T09:55:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": "2026-02-16T08:44:00.000",
+                "actualTime": "2026-02-16T08:44:00.000",
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": "2026-02-16T08:44:00.000",
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T08:45:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD4165",
+                "icaoNumber": "AZU4165",
+                "number": "4165"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E49FB4",
+                "icaoCode": "E295",
+                "regNumber": "PS-ADC"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T09:59:00.000",
+                "gate": null,
+                "iataCode": "FLN",
+                "icaoCode": "SBFL",
+                "scheduledTime": "2026-02-16T10:05:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": "2026-02-16T09:03:00.000",
+                "actualTime": "2026-02-16T09:03:00.000",
+                "baggage": null,
+                "delay": "14",
+                "estimatedRunway": "2026-02-16T09:03:00.000",
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T08:50:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD2613",
+                "icaoNumber": "AZU2613",
+                "number": "2613"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E493E8",
+                "icaoCode": "AT76",
+                "regNumber": "PR-AKL"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T10:17:00.000",
+                "gate": null,
+                "iataCode": "MGF",
+                "icaoCode": "SBMG",
+                "scheduledTime": "2026-02-16T10:30:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": "2026-02-16T08:50:00.000",
+                "actualTime": "2026-02-16T08:50:00.000",
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": "2026-02-16T08:50:00.000",
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T08:55:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD4102",
+                "icaoNumber": "AZU4102",
+                "number": "4102"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E493E5",
+                "icaoCode": "AT76",
+                "regNumber": "PR-AKJ"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T09:55:00.000",
+                "gate": null,
+                "iataCode": "SJP",
+                "icaoCode": "SBSR",
+                "scheduledTime": "2026-02-16T10:05:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": "2026-02-16T08:58:00.000",
+                "actualTime": "2026-02-16T08:58:00.000",
+                "baggage": null,
+                "delay": "4",
+                "estimatedRunway": "2026-02-16T08:58:00.000",
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T08:55:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD4907",
+                "icaoNumber": "AZU4907",
+                "number": "4907"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E48B4F",
+                "icaoCode": "AT76",
+                "regNumber": "PR-TKK"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T10:00:00.000",
+                "gate": null,
+                "iataCode": "ARU",
+                "icaoCode": "SBAU",
+                "scheduledTime": "2026-02-16T10:20:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": "2026-02-16T08:57:00.000",
+                "actualTime": "2026-02-16T08:57:00.000",
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": "2026-02-16T08:57:00.000",
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T09:00:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD5047",
+                "icaoNumber": "AZU5047",
+                "number": "5047"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E4917D",
+                "icaoCode": "AT76",
+                "regNumber": "PR-AQZ"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T10:15:00.000",
+                "gate": null,
+                "iataCode": "LDB",
+                "icaoCode": "SBLO",
+                "scheduledTime": "2026-02-16T10:30:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": "2026-02-16T09:11:00.000",
+                "actualTime": "2026-02-16T09:11:00.000",
+                "baggage": null,
+                "delay": "7",
+                "estimatedRunway": "2026-02-16T09:11:00.000",
+                "estimatedTime": "2026-02-16T09:02:00.000",
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T09:05:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD4308",
+                "icaoNumber": "AZU4308",
+                "number": "4308"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E49829",
+                "icaoCode": "C208",
+                "regNumber": "PS-CNA"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T10:39:00.000",
+                "gate": null,
+                "iataCode": "RRJ",
+                "icaoCode": "SBJR",
+                "scheduledTime": "2026-02-16T10:50:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": "2026-02-16T09:13:00.000",
+                "actualTime": "2026-02-16T09:13:00.000",
+                "baggage": null,
+                "delay": "8",
+                "estimatedRunway": "2026-02-16T09:13:00.000",
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T09:05:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD5144",
+                "icaoNumber": "AZU5144",
+                "number": "5144"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E49B81",
+                "icaoCode": "AT76",
+                "regNumber": "PR-YXC"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T10:03:00.000",
+                "gate": null,
+                "iataCode": "RAO",
+                "icaoCode": "SBRP",
+                "scheduledTime": "2026-02-16T10:05:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": "2026-02-16T09:21:00.000",
+                "actualTime": "2026-02-16T09:21:00.000",
+                "baggage": null,
+                "delay": "11",
+                "estimatedRunway": "2026-02-16T09:21:00.000",
+                "estimatedTime": "2026-02-16T09:03:00.000",
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T09:10:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD4590",
+                "icaoNumber": "AZU4590",
+                "number": "4590"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E49050",
+                "icaoCode": "E195",
+                "regNumber": "PR-AUE"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": "02",
+                "delay": "3",
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T10:27:00.000",
+                "gate": null,
+                "iataCode": "UDI",
+                "icaoCode": "SBUL",
+                "scheduledTime": "2026-02-16T10:25:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": "2026-02-16T09:39:00.000",
+                "actualTime": "2026-02-16T09:39:00.000",
+                "baggage": null,
+                "delay": "19",
+                "estimatedRunway": "2026-02-16T09:39:00.000",
+                "estimatedTime": "2026-02-16T09:25:00.000",
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T09:20:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD4240",
+                "icaoNumber": "AZU4240",
+                "number": "4240"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E4932A",
+                "icaoCode": "A20N",
+                "regNumber": "PR-YYG"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T10:13:00.000",
+                "gate": null,
+                "iataCode": "CGB",
+                "icaoCode": "SBCY",
+                "scheduledTime": "2026-02-16T10:35:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": "2026-02-16T09:30:00.000",
+                "actualTime": "2026-02-16T09:30:00.000",
+                "baggage": null,
+                "delay": "5",
+                "estimatedRunway": "2026-02-16T09:30:00.000",
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T09:25:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD4336",
+                "icaoNumber": "AZU4336",
+                "number": "4336"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E4A391",
+                "icaoCode": "E295",
+                "regNumber": "PS-ADN"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T10:27:00.000",
+                "gate": null,
+                "iataCode": "SDU",
+                "icaoCode": "SBRJ",
+                "scheduledTime": "2026-02-16T10:40:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": "2026-02-16T09:43:00.000",
+                "actualTime": "2026-02-16T09:43:00.000",
+                "baggage": null,
+                "delay": "8",
+                "estimatedRunway": "2026-02-16T09:43:00.000",
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T09:35:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD2978",
+                "icaoNumber": "AZU2978",
+                "number": "2978"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E492A6",
+                "icaoCode": "A20N",
+                "regNumber": "PR-YRD"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T10:43:00.000",
+                "gate": "105",
+                "iataCode": "CNF",
+                "icaoCode": "SBCF",
+                "scheduledTime": "2026-02-16T10:50:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": "2026-02-16T09:52:00.000",
+                "actualTime": "2026-02-16T09:52:00.000",
+                "baggage": null,
+                "delay": "12",
+                "estimatedRunway": "2026-02-16T09:52:00.000",
+                "estimatedTime": "2026-02-16T09:38:00.000",
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T09:40:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD4045",
+                "icaoNumber": "AZU4045",
+                "number": "4045"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E49525",
+                "icaoCode": "B38M",
+                "regNumber": "PR-XMU"
+            },
+            "airline": {
+                "iataCode": "AF",
+                "icaoCode": "AFR",
+                "name": "Air France"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T10:40:00.000",
+                "gate": null,
+                "iataCode": "GIG",
+                "icaoCode": "SBGL",
+                "scheduledTime": "2026-02-16T11:00:00.000",
+                "terminal": "2"
+            },
+            "codeshared": {
+                "airline": {
+                    "iataCode": "g3",
+                    "icaoCode": "glo",
+                    "name": "gol"
+                },
+                "flight": {
+                    "iataNumber": "g31971",
+                    "icaoNumber": "glo1971",
+                    "number": "1971"
+                }
+            },
+            "departure": {
+                "actualRunway": "2026-02-16T09:53:00.000",
+                "actualTime": "2026-02-16T09:53:00.000",
+                "baggage": null,
+                "delay": "4",
+                "estimatedRunway": "2026-02-16T09:53:00.000",
+                "estimatedTime": "2026-02-16T09:50:00.000",
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T09:50:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AF2017",
+                "icaoNumber": "AFR2017",
+                "number": "2017"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E49525",
+                "icaoCode": "B38M",
+                "regNumber": "PR-XMU"
+            },
+            "airline": {
+                "iataCode": "KL",
+                "icaoCode": "KLM",
+                "name": "KLM"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T10:40:00.000",
+                "gate": null,
+                "iataCode": "GIG",
+                "icaoCode": "SBGL",
+                "scheduledTime": "2026-02-16T11:00:00.000",
+                "terminal": "2"
+            },
+            "codeshared": {
+                "airline": {
+                    "iataCode": "g3",
+                    "icaoCode": "glo",
+                    "name": "gol"
+                },
+                "flight": {
+                    "iataNumber": "g31971",
+                    "icaoNumber": "glo1971",
+                    "number": "1971"
+                }
+            },
+            "departure": {
+                "actualRunway": "2026-02-16T09:53:00.000",
+                "actualTime": "2026-02-16T09:53:00.000",
+                "baggage": null,
+                "delay": "4",
+                "estimatedRunway": "2026-02-16T09:53:00.000",
+                "estimatedTime": "2026-02-16T09:50:00.000",
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T09:50:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "KL9413",
+                "icaoNumber": "KLM9413",
+                "number": "9413"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E49525",
+                "icaoCode": "B38M",
+                "regNumber": "PR-XMU"
+            },
+            "airline": {
+                "iataCode": "TP",
+                "icaoCode": "TAP",
+                "name": "TAP Air Portugal"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T10:40:00.000",
+                "gate": null,
+                "iataCode": "GIG",
+                "icaoCode": "SBGL",
+                "scheduledTime": "2026-02-16T11:00:00.000",
+                "terminal": "2"
+            },
+            "codeshared": {
+                "airline": {
+                    "iataCode": "g3",
+                    "icaoCode": "glo",
+                    "name": "gol"
+                },
+                "flight": {
+                    "iataNumber": "g31971",
+                    "icaoNumber": "glo1971",
+                    "number": "1971"
+                }
+            },
+            "departure": {
+                "actualRunway": "2026-02-16T09:53:00.000",
+                "actualTime": "2026-02-16T09:53:00.000",
+                "baggage": null,
+                "delay": "4",
+                "estimatedRunway": "2026-02-16T09:53:00.000",
+                "estimatedTime": "2026-02-16T09:50:00.000",
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T09:50:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "TP5754",
+                "icaoNumber": "TAP5754",
+                "number": "5754"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E49525",
+                "icaoCode": "B38M",
+                "regNumber": "PR-XMU"
+            },
+            "airline": {
+                "iataCode": "G3",
+                "icaoCode": "GLO",
+                "name": "Gol"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T10:40:00.000",
+                "gate": null,
+                "iataCode": "GIG",
+                "icaoCode": "SBGL",
+                "scheduledTime": "2026-02-16T11:00:00.000",
+                "terminal": "2"
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": "2026-02-16T09:53:00.000",
+                "actualTime": "2026-02-16T09:53:00.000",
+                "baggage": null,
+                "delay": "4",
+                "estimatedRunway": "2026-02-16T09:53:00.000",
+                "estimatedTime": "2026-02-16T09:50:00.000",
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T09:50:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "G31971",
+                "icaoNumber": "GLO1971",
+                "number": "1971"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E494F9",
+                "icaoCode": "A339",
+                "regNumber": "PR-ANW"
+            },
+            "airline": {
+                "iataCode": "UA",
+                "icaoCode": "UAL",
+                "name": "United Airlines"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T16:32:00.000",
+                "gate": null,
+                "iataCode": "MCO",
+                "icaoCode": "KMCO",
+                "scheduledTime": "2026-02-16T17:00:00.000",
+                "terminal": "C"
+            },
+            "codeshared": {
+                "airline": {
+                    "iataCode": "ad",
+                    "icaoCode": "azu",
+                    "name": "azul"
+                },
+                "flight": {
+                    "iataNumber": "ad8706",
+                    "icaoNumber": "azu8706",
+                    "number": "8706"
+                }
+            },
+            "departure": {
+                "actualRunway": "2026-02-16T10:25:00.000",
+                "actualTime": "2026-02-16T10:25:00.000",
+                "baggage": null,
+                "delay": "15",
+                "estimatedRunway": "2026-02-16T10:25:00.000",
+                "estimatedTime": "2026-02-16T10:12:00.000",
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T10:10:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "UA7376",
+                "icaoNumber": "UAL7376",
+                "number": "7376"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E494F9",
+                "icaoCode": "A339",
+                "regNumber": "PR-ANW"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T16:32:00.000",
+                "gate": null,
+                "iataCode": "MCO",
+                "icaoCode": "KMCO",
+                "scheduledTime": "2026-02-16T17:00:00.000",
+                "terminal": "C"
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": "2026-02-16T10:25:00.000",
+                "actualTime": "2026-02-16T10:25:00.000",
+                "baggage": null,
+                "delay": "15",
+                "estimatedRunway": "2026-02-16T10:25:00.000",
+                "estimatedTime": "2026-02-16T10:12:00.000",
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T10:10:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD8706",
+                "icaoNumber": "AZU8706",
+                "number": "8706"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "",
+                "icaoCode": "33F",
+                "regNumber": ""
+            },
+            "airline": {
+                "iataCode": "QT",
+                "icaoCode": "TPA",
+                "name": "Avianca Cargo"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VIX",
+                "icaoCode": "SBVT",
+                "scheduledTime": "2026-02-16T11:43:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T10:13:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "QT4059",
+                "icaoNumber": "TPA4059",
+                "number": "4059"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E4A13C",
+                "icaoCode": "A321",
+                "regNumber": "PS-AJB"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T13:31:00.000",
+                "gate": null,
+                "iataCode": "MAO",
+                "icaoCode": "SBEG",
+                "scheduledTime": "2026-02-16T13:45:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": "2026-02-16T11:11:00.000",
+                "actualTime": "2026-02-16T11:11:00.000",
+                "baggage": null,
+                "delay": "16",
+                "estimatedRunway": "2026-02-16T11:11:00.000",
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T10:55:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD2025",
+                "icaoNumber": "AZU2025",
+                "number": "2025"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E494F1",
+                "icaoCode": "A339",
+                "regNumber": "PR-ANX"
+            },
+            "airline": {
+                "iataCode": "UA",
+                "icaoCode": "UAL",
+                "name": "United Airlines"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T17:32:00.000",
+                "gate": null,
+                "iataCode": "MCO",
+                "icaoCode": "KMCO",
+                "scheduledTime": "2026-02-16T18:00:00.000",
+                "terminal": "C"
+            },
+            "codeshared": {
+                "airline": {
+                    "iataCode": "ad",
+                    "icaoCode": "azu",
+                    "name": "azul"
+                },
+                "flight": {
+                    "iataNumber": "ad8716",
+                    "icaoNumber": "azu8716",
+                    "number": "8716"
+                }
+            },
+            "departure": {
+                "actualRunway": "2026-02-16T11:25:00.000",
+                "actualTime": "2026-02-16T11:25:00.000",
+                "baggage": null,
+                "delay": "15",
+                "estimatedRunway": "2026-02-16T11:25:00.000",
+                "estimatedTime": "2026-02-16T11:06:00.000",
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T11:10:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "UA7328",
+                "icaoNumber": "UAL7328",
+                "number": "7328"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E494F1",
+                "icaoCode": "A339",
+                "regNumber": "PR-ANX"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T17:32:00.000",
+                "gate": null,
+                "iataCode": "MCO",
+                "icaoCode": "KMCO",
+                "scheduledTime": "2026-02-16T18:00:00.000",
+                "terminal": "C"
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": "2026-02-16T11:25:00.000",
+                "actualTime": "2026-02-16T11:25:00.000",
+                "baggage": null,
+                "delay": "15",
+                "estimatedRunway": "2026-02-16T11:25:00.000",
+                "estimatedTime": "2026-02-16T11:06:00.000",
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T11:10:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD8716",
+                "icaoNumber": "AZU8716",
+                "number": "8716"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E480D2",
+                "icaoCode": "A320",
+                "regNumber": "PR-MHQ"
+            },
+            "airline": {
+                "iataCode": "LA",
+                "icaoCode": "LAN",
+                "name": "LATAM Airlines"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T12:34:00.000",
+                "gate": null,
+                "iataCode": "BSB",
+                "icaoCode": "SBBR",
+                "scheduledTime": "2026-02-16T12:55:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": "2026-02-16T11:23:00.000",
+                "actualTime": "2026-02-16T11:23:00.000",
+                "baggage": null,
+                "delay": "3",
+                "estimatedRunway": "2026-02-16T11:23:00.000",
+                "estimatedTime": "2026-02-16T11:22:00.000",
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T11:20:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "LA3281",
+                "icaoNumber": "LAN3281",
+                "number": "3281"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E49A8B",
+                "icaoCode": "E295",
+                "regNumber": "PS-AEL"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T12:34:00.000",
+                "gate": null,
+                "iataCode": "SDU",
+                "icaoCode": "SBRJ",
+                "scheduledTime": "2026-02-16T12:45:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": "2026-02-16T11:47:00.000",
+                "actualTime": "2026-02-16T11:47:00.000",
+                "baggage": null,
+                "delay": "8",
+                "estimatedRunway": "2026-02-16T11:47:00.000",
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T11:40:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD4173",
+                "icaoNumber": "AZU4173",
+                "number": "4173"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E495FC",
+                "icaoCode": "E295",
+                "regNumber": "PS-AED"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T13:14:00.000",
+                "gate": "103",
+                "iataCode": "CNF",
+                "icaoCode": "SBCF",
+                "scheduledTime": "2026-02-16T13:20:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": "2026-02-16T12:20:00.000",
+                "actualTime": "2026-02-16T12:20:00.000",
+                "baggage": null,
+                "delay": "11",
+                "estimatedRunway": "2026-02-16T12:20:00.000",
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T12:10:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD2607",
+                "icaoNumber": "AZU2607",
+                "number": "2607"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E49B81",
+                "icaoCode": "AT76",
+                "regNumber": "PR-YXC"
+            },
+            "airline": {
+                "iataCode": "G3",
+                "icaoCode": "GLO",
+                "name": "Gol"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T13:17:00.000",
+                "gate": null,
+                "iataCode": "JTC",
+                "icaoCode": "SBAE",
+                "scheduledTime": "2026-02-16T13:30:00.000",
+                "terminal": null
+            },
+            "codeshared": {
+                "airline": {
+                    "iataCode": "ad",
+                    "icaoCode": "azu",
+                    "name": "azul"
+                },
+                "flight": {
+                    "iataNumber": "ad4530",
+                    "icaoNumber": "azu4530",
+                    "number": "4530"
+                }
+            },
+            "departure": {
+                "actualRunway": "2026-02-16T12:36:00.000",
+                "actualTime": "2026-02-16T12:36:00.000",
+                "baggage": null,
+                "delay": "1",
+                "estimatedRunway": "2026-02-16T12:36:00.000",
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T12:35:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "G33695",
+                "icaoNumber": "GLO3695",
+                "number": "3695"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E49B81",
+                "icaoCode": "AT76",
+                "regNumber": "PR-YXC"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T13:17:00.000",
+                "gate": null,
+                "iataCode": "JTC",
+                "icaoCode": "SBAE",
+                "scheduledTime": "2026-02-16T13:30:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": "2026-02-16T12:36:00.000",
+                "actualTime": "2026-02-16T12:36:00.000",
+                "baggage": null,
+                "delay": "1",
+                "estimatedRunway": "2026-02-16T12:36:00.000",
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T12:35:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD4530",
+                "icaoNumber": "AZU4530",
+                "number": "4530"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E4A393",
+                "icaoCode": "E295",
+                "regNumber": "PS-ADK"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "NVT",
+                "icaoCode": "SBNF",
+                "scheduledTime": "2026-02-16T13:45:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T12:37:00.000",
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T12:40:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD4558",
+                "icaoNumber": "AZU4558",
+                "number": "4558"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E494F6",
+                "icaoCode": "A20N",
+                "regNumber": "PR-YYB"
+            },
+            "airline": {
+                "iataCode": "TP",
+                "icaoCode": "TAP",
+                "name": "TAP Air Portugal"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "BEL",
+                "icaoCode": "SBBE",
+                "scheduledTime": "2026-02-16T16:10:00.000",
+                "terminal": null
+            },
+            "codeshared": {
+                "airline": {
+                    "iataCode": "ad",
+                    "icaoCode": "azu",
+                    "name": "azul"
+                },
+                "flight": {
+                    "iataNumber": "ad4070",
+                    "icaoNumber": "azu4070",
+                    "number": "4070"
+                }
+            },
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T12:40:00.000",
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T12:45:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "TP6009",
+                "icaoNumber": "TAP6009",
+                "number": "6009"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E494F6",
+                "icaoCode": "A20N",
+                "regNumber": "PR-YYB"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "BEL",
+                "icaoCode": "SBBE",
+                "scheduledTime": "2026-02-16T16:10:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T12:40:00.000",
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T12:45:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD4070",
+                "icaoNumber": "AZU4070",
+                "number": "4070"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E4936A",
+                "icaoCode": "A20N",
+                "regNumber": "PR-YRK"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "POA",
+                "icaoCode": "SBPA",
+                "scheduledTime": "2026-02-16T14:30:00.000",
+                "terminal": "1"
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T12:50:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD2399",
+                "icaoNumber": "AZU2399",
+                "number": "2399"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E49A2E",
+                "icaoCode": "A20N",
+                "regNumber": "PR-YSK"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "MAO",
+                "icaoCode": "SBEG",
+                "scheduledTime": "2026-02-16T15:40:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T12:50:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD4056",
+                "icaoNumber": "AZU4056",
+                "number": "4056"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "",
+                "icaoCode": "33F",
+                "regNumber": ""
+            },
+            "airline": {
+                "iataCode": "QT",
+                "icaoCode": "TPA",
+                "name": "Avianca Cargo"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "MDE",
+                "icaoCode": "SKRG",
+                "scheduledTime": "2026-02-16T16:59:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T13:02:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "QT4060",
+                "icaoNumber": "TPA4060",
+                "number": "4060"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E49EC9",
+                "icaoCode": "A20N",
+                "regNumber": "PR-YSR"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "CXJ",
+                "icaoCode": "SBCX",
+                "scheduledTime": "2026-02-16T14:40:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T13:05:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD2732",
+                "icaoNumber": "AZU2732",
+                "number": "2732"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E49329",
+                "icaoCode": "A20N",
+                "regNumber": "PR-YYE"
+            },
+            "airline": {
+                "iataCode": "UX",
+                "icaoCode": "AEA",
+                "name": "Air Europa"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": "4",
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "SSA",
+                "icaoCode": "SBSV",
+                "scheduledTime": "2026-02-16T15:25:00.000",
+                "terminal": null
+            },
+            "codeshared": {
+                "airline": {
+                    "iataCode": "ad",
+                    "icaoCode": "azu",
+                    "name": "azul"
+                },
+                "flight": {
+                    "iataNumber": "ad2991",
+                    "icaoNumber": "azu2991",
+                    "number": "2991"
+                }
+            },
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T13:05:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "UX2911",
+                "icaoNumber": "AEA2911",
+                "number": "2911"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E49329",
+                "icaoCode": "A20N",
+                "regNumber": "PR-YYE"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": "4",
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "SSA",
+                "icaoCode": "SBSV",
+                "scheduledTime": "2026-02-16T15:25:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T13:05:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD2991",
+                "icaoNumber": "AZU2991",
+                "number": "2991"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E49A55",
+                "icaoCode": "A20N",
+                "regNumber": "PR-YSN"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "BPS",
+                "icaoCode": "SBPS",
+                "scheduledTime": "2026-02-16T15:00:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T13:10:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD4930",
+                "icaoNumber": "AZU4930",
+                "number": "4930"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E49388",
+                "icaoCode": "A20N",
+                "regNumber": "PR-YYC"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "GYN",
+                "icaoCode": "SBGO",
+                "scheduledTime": "2026-02-16T14:45:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T13:15:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD4866",
+                "icaoNumber": "AZU4866",
+                "number": "4866"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E49A96",
+                "icaoCode": "E295",
+                "regNumber": "PS-AEO"
+            },
+            "airline": {
+                "iataCode": "TP",
+                "icaoCode": "TAP",
+                "name": "TAP Air Portugal"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "BSB",
+                "icaoCode": "SBBR",
+                "scheduledTime": "2026-02-16T14:50:00.000",
+                "terminal": null
+            },
+            "codeshared": {
+                "airline": {
+                    "iataCode": "ad",
+                    "icaoCode": "azu",
+                    "name": "azul"
+                },
+                "flight": {
+                    "iataNumber": "ad5007",
+                    "icaoNumber": "azu5007",
+                    "number": "5007"
+                }
+            },
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T13:15:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "TP5300",
+                "icaoNumber": "TAP5300",
+                "number": "5300"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E49A96",
+                "icaoCode": "E295",
+                "regNumber": "PS-AEO"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "BSB",
+                "icaoCode": "SBBR",
+                "scheduledTime": "2026-02-16T14:50:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T13:15:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD5007",
+                "icaoNumber": "AZU5007",
+                "number": "5007"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E493E8",
+                "icaoCode": "AT76",
+                "regNumber": "PR-AKL"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "PPB",
+                "icaoCode": "SBDN",
+                "scheduledTime": "2026-02-16T14:50:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T13:20:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD4063",
+                "icaoNumber": "AZU4063",
+                "number": "4063"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E49FB4",
+                "icaoCode": "E295",
+                "regNumber": "PS-ADC"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "FLN",
+                "icaoCode": "SBFL",
+                "scheduledTime": "2026-02-16T14:35:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T13:20:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD4849",
+                "icaoNumber": "AZU4849",
+                "number": "4849"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E49AE9",
+                "icaoCode": "AT76",
+                "regNumber": "PR-YXT"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "MGF",
+                "icaoCode": "SBMG",
+                "scheduledTime": "2026-02-16T15:00:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T13:25:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD2676",
+                "icaoNumber": "AZU2676",
+                "number": "2676"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E49D21",
+                "icaoCode": "E295",
+                "regNumber": "PS-AEQ"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "CWB",
+                "icaoCode": "SBCT",
+                "scheduledTime": "2026-02-16T14:25:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T13:25:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD4147",
+                "icaoNumber": "AZU4147",
+                "number": "4147"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E49F45",
+                "icaoCode": "E295",
+                "regNumber": "PS-AEV"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": "01",
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "CGR",
+                "icaoCode": "SBCG",
+                "scheduledTime": "2026-02-16T14:10:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T13:30:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD2700",
+                "icaoNumber": "AZU2700",
+                "number": "2700"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E4910E",
+                "icaoCode": "A332",
+                "regNumber": "PR-AIW"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": "N06",
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "REC",
+                "icaoCode": "SBRF",
+                "scheduledTime": "2026-02-16T16:35:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T13:30:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD2805",
+                "icaoNumber": "AZU2805",
+                "number": "2805"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E49390",
+                "icaoCode": "A20N",
+                "regNumber": "PR-YYF"
+            },
+            "airline": {
+                "iataCode": "TP",
+                "icaoCode": "TAP",
+                "name": "TAP Air Portugal"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "NAT",
+                "icaoCode": "SBSG",
+                "scheduledTime": "2026-02-16T16:50:00.000",
+                "terminal": null
+            },
+            "codeshared": {
+                "airline": {
+                    "iataCode": "ad",
+                    "icaoCode": "azu",
+                    "name": "azul"
+                },
+                "flight": {
+                    "iataNumber": "ad4291",
+                    "icaoNumber": "azu4291",
+                    "number": "4291"
+                }
+            },
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T13:35:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "TP5219",
+                "icaoNumber": "TAP5219",
+                "number": "5219"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E49390",
+                "icaoCode": "A20N",
+                "regNumber": "PR-YYF"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "NAT",
+                "icaoCode": "SBSG",
+                "scheduledTime": "2026-02-16T16:50:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T13:35:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD4291",
+                "icaoNumber": "AZU4291",
+                "number": "4291"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E495B3",
+                "icaoCode": "A20N",
+                "regNumber": "PR-YSE"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": "E01",
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "MCZ",
+                "icaoCode": "SBMO",
+                "scheduledTime": "2026-02-16T16:30:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T13:40:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD2500",
+                "icaoNumber": "AZU2500",
+                "number": "2500"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E4917D",
+                "icaoCode": "AT76",
+                "regNumber": "PR-AQZ"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": "02",
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "UDI",
+                "icaoCode": "SBUL",
+                "scheduledTime": "2026-02-16T15:15:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T13:45:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD4316",
+                "icaoNumber": "AZU4316",
+                "number": "4316"
+            },
+            "status": "active",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E491A9",
+                "icaoCode": "AT76",
+                "regNumber": "PR-AKA"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "SJP",
+                "icaoCode": "SBSR",
+                "scheduledTime": "2026-02-16T15:10:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T13:55:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD4392",
+                "icaoNumber": "AZU4392",
+                "number": "4392"
+            },
+            "status": "scheduled",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E492B0",
+                "icaoCode": "A20N",
+                "regNumber": "PR-YRA"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "SLZ",
+                "icaoCode": "SBSL",
+                "scheduledTime": "2026-02-16T17:20:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T14:05:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD4871",
+                "icaoNumber": "AZU4871",
+                "number": "4871"
+            },
+            "status": "scheduled",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E495CF",
+                "icaoCode": "A21N",
+                "regNumber": "PR-YJB"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": "S03",
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "REC",
+                "icaoCode": "SBRF",
+                "scheduledTime": "2026-02-16T17:20:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T14:20:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD2810",
+                "icaoNumber": "AZU2810",
+                "number": "2810"
+            },
+            "status": "scheduled",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E49699",
+                "icaoCode": "A20N",
+                "regNumber": "PR-YSH"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "IOS",
+                "icaoCode": "SBIL",
+                "scheduledTime": "2026-02-16T16:30:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T14:30:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD4010",
+                "icaoNumber": "AZU4010",
+                "number": "4010"
+            },
+            "status": "scheduled",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E49640",
+                "icaoCode": "E295",
+                "regNumber": "PS-AEF"
+            },
+            "airline": {
+                "iataCode": "TP",
+                "icaoCode": "TAP",
+                "name": "TAP Air Portugal"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": "104",
+                "iataCode": "CNF",
+                "icaoCode": "SBCF",
+                "scheduledTime": "2026-02-16T15:40:00.000",
+                "terminal": null
+            },
+            "codeshared": {
+                "airline": {
+                    "iataCode": "ad",
+                    "icaoCode": "azu",
+                    "name": "azul"
+                },
+                "flight": {
+                    "iataNumber": "ad4957",
+                    "icaoNumber": "azu4957",
+                    "number": "4957"
+                }
+            },
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T14:30:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "TP6026",
+                "icaoNumber": "TAP6026",
+                "number": "6026"
+            },
+            "status": "scheduled",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E49640",
+                "icaoCode": "E295",
+                "regNumber": "PS-AEF"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": "104",
+                "iataCode": "CNF",
+                "icaoCode": "SBCF",
+                "scheduledTime": "2026-02-16T15:40:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T14:30:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD4957",
+                "icaoNumber": "AZU4957",
+                "number": "4957"
+            },
+            "status": "scheduled",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E4932A",
+                "icaoCode": "A20N",
+                "regNumber": "PR-YYG"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "CGB",
+                "icaoCode": "SBCY",
+                "scheduledTime": "2026-02-16T16:05:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T14:55:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD4338",
+                "icaoNumber": "AZU4338",
+                "number": "4338"
+            },
+            "status": "scheduled",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E49866",
+                "icaoCode": "A20N",
+                "regNumber": "PR-YSI"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "OPS",
+                "icaoCode": "SBSI",
+                "scheduledTime": "2026-02-16T16:40:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T15:15:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD4554",
+                "icaoNumber": "AZU4554",
+                "number": "4554"
+            },
+            "status": "scheduled",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E49B81",
+                "icaoCode": "AT76",
+                "regNumber": "PR-YXC"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "RAO",
+                "icaoCode": "SBRP",
+                "scheduledTime": "2026-02-16T16:25:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T15:30:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD4268",
+                "icaoNumber": "AZU4268",
+                "number": "4268"
+            },
+            "status": "scheduled",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E49A8B",
+                "icaoCode": "E295",
+                "regNumber": "PS-AEL"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "SDU",
+                "icaoCode": "SBRJ",
+                "scheduledTime": "2026-02-16T16:45:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T15:35:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD5086",
+                "icaoNumber": "AZU5086",
+                "number": "5086"
+            },
+            "status": "scheduled",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "",
+                "icaoCode": "74Y",
+                "regNumber": ""
+            },
+            "airline": {
+                "iataCode": "CV",
+                "icaoCode": "CLX",
+                "name": "Cargolux"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "LUX",
+                "icaoCode": "ELLX",
+                "scheduledTime": "2026-02-16T20:50:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T15:40:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "CV6821",
+                "icaoNumber": "CLX6821",
+                "number": "6821"
+            },
+            "status": "scheduled",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E4A2B7",
+                "icaoCode": "E295",
+                "regNumber": "PS-ADH"
+            },
+            "airline": {
+                "iataCode": "TP",
+                "icaoCode": "TAP",
+                "name": "TAP Air Portugal"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "GIG",
+                "icaoCode": "SBGL",
+                "scheduledTime": "2026-02-16T16:50:00.000",
+                "terminal": "2"
+            },
+            "codeshared": {
+                "airline": {
+                    "iataCode": "ad",
+                    "icaoCode": "azu",
+                    "name": "azul"
+                },
+                "flight": {
+                    "iataNumber": "ad4037",
+                    "icaoNumber": "azu4037",
+                    "number": "4037"
+                }
+            },
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T15:45:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "TP5431",
+                "icaoNumber": "TAP5431",
+                "number": "5431"
+            },
+            "status": "scheduled",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E4A2B7",
+                "icaoCode": "E295",
+                "regNumber": "PS-ADH"
+            },
+            "airline": {
+                "iataCode": "UA",
+                "icaoCode": "UAL",
+                "name": "United Airlines"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "GIG",
+                "icaoCode": "SBGL",
+                "scheduledTime": "2026-02-16T16:50:00.000",
+                "terminal": "2"
+            },
+            "codeshared": {
+                "airline": {
+                    "iataCode": "ad",
+                    "icaoCode": "azu",
+                    "name": "azul"
+                },
+                "flight": {
+                    "iataNumber": "ad4037",
+                    "icaoNumber": "azu4037",
+                    "number": "4037"
+                }
+            },
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T15:45:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "UA7370",
+                "icaoNumber": "UAL7370",
+                "number": "7370"
+            },
+            "status": "scheduled",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E4A2B7",
+                "icaoCode": "E295",
+                "regNumber": "PS-ADH"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "GIG",
+                "icaoCode": "SBGL",
+                "scheduledTime": "2026-02-16T16:50:00.000",
+                "terminal": "2"
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T15:45:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD4037",
+                "icaoNumber": "AZU4037",
+                "number": "4037"
+            },
+            "status": "scheduled",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E49F5A",
+                "icaoCode": "E295",
+                "regNumber": "PS-AEW"
+            },
+            "airline": {
+                "iataCode": "TP",
+                "icaoCode": "TAP",
+                "name": "TAP Air Portugal"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": "4",
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "SSA",
+                "icaoCode": "SBSV",
+                "scheduledTime": "2026-02-16T18:40:00.000",
+                "terminal": null
+            },
+            "codeshared": {
+                "airline": {
+                    "iataCode": "ad",
+                    "icaoCode": "azu",
+                    "name": "azul"
+                },
+                "flight": {
+                    "iataNumber": "ad4141",
+                    "icaoNumber": "azu4141",
+                    "number": "4141"
+                }
+            },
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T16:20:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "TP5277",
+                "icaoNumber": "TAP5277",
+                "number": "5277"
+            },
+            "status": "scheduled",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E49F5A",
+                "icaoCode": "E295",
+                "regNumber": "PS-AEW"
+            },
+            "airline": {
+                "iataCode": "UX",
+                "icaoCode": "AEA",
+                "name": "Air Europa"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": "4",
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "SSA",
+                "icaoCode": "SBSV",
+                "scheduledTime": "2026-02-16T18:40:00.000",
+                "terminal": null
+            },
+            "codeshared": {
+                "airline": {
+                    "iataCode": "ad",
+                    "icaoCode": "azu",
+                    "name": "azul"
+                },
+                "flight": {
+                    "iataNumber": "ad4141",
+                    "icaoNumber": "azu4141",
+                    "number": "4141"
+                }
+            },
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T16:20:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "UX2909",
+                "icaoNumber": "AEA2909",
+                "number": "2909"
+            },
+            "status": "scheduled",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E49F5A",
+                "icaoCode": "E295",
+                "regNumber": "PS-AEW"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": "4",
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "SSA",
+                "icaoCode": "SBSV",
+                "scheduledTime": "2026-02-16T18:40:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T16:20:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD4141",
+                "icaoNumber": "AZU4141",
+                "number": "4141"
+            },
+            "status": "scheduled",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E48014",
+                "icaoCode": "A320",
+                "regNumber": "PR-MHA"
+            },
+            "airline": {
+                "iataCode": "LA",
+                "icaoCode": "LAN",
+                "name": "LATAM Airlines"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "BSB",
+                "icaoCode": "SBBR",
+                "scheduledTime": "2026-02-16T18:10:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": "13",
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T16:48:00.000",
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T16:35:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "LA3323",
+                "icaoNumber": "LAN3323",
+                "number": "3323"
+            },
+            "status": "scheduled",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E495D0",
+                "icaoCode": "A21N",
+                "regNumber": "PR-YJC"
+            },
+            "airline": {
+                "iataCode": "TP",
+                "icaoCode": "TAP",
+                "name": "TAP Air Portugal"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "POA",
+                "icaoCode": "SBPA",
+                "scheduledTime": "2026-02-16T18:50:00.000",
+                "terminal": "1"
+            },
+            "codeshared": {
+                "airline": {
+                    "iataCode": "ad",
+                    "icaoCode": "azu",
+                    "name": "azul"
+                },
+                "flight": {
+                    "iataNumber": "ad2660",
+                    "icaoNumber": "azu2660",
+                    "number": "2660"
+                }
+            },
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T17:10:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "TP6080",
+                "icaoNumber": "TAP6080",
+                "number": "6080"
+            },
+            "status": "scheduled",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E495D0",
+                "icaoCode": "A21N",
+                "regNumber": "PR-YJC"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "POA",
+                "icaoCode": "SBPA",
+                "scheduledTime": "2026-02-16T18:50:00.000",
+                "terminal": "1"
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T17:10:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD2660",
+                "icaoNumber": "AZU2660",
+                "number": "2660"
+            },
+            "status": "scheduled",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E4966D",
+                "icaoCode": "E295",
+                "regNumber": "PS-AEH"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "CWB",
+                "icaoCode": "SBCT",
+                "scheduledTime": "2026-02-16T18:10:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T17:10:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD2897",
+                "icaoNumber": "AZU2897",
+                "number": "2897"
+            },
+            "status": "scheduled",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E4A391",
+                "icaoCode": "E295",
+                "regNumber": "PS-ADN"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "SDU",
+                "icaoCode": "SBRJ",
+                "scheduledTime": "2026-02-16T18:20:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T17:10:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD4305",
+                "icaoNumber": "AZU4305",
+                "number": "4305"
+            },
+            "status": "scheduled",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E4A393",
+                "icaoCode": "E295",
+                "regNumber": "PS-ADK"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "NVT",
+                "icaoCode": "SBNF",
+                "scheduledTime": "2026-02-16T18:20:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T17:15:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD4958",
+                "icaoNumber": "AZU4958",
+                "number": "4958"
+            },
+            "status": "scheduled",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E493E8",
+                "icaoCode": "AT76",
+                "regNumber": "PR-AKL"
+            },
+            "airline": {
+                "iataCode": "G3",
+                "icaoCode": "GLO",
+                "name": "Gol"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "MII",
+                "icaoCode": "SBML",
+                "scheduledTime": "2026-02-16T18:35:00.000",
+                "terminal": null
+            },
+            "codeshared": {
+                "airline": {
+                    "iataCode": "ad",
+                    "icaoCode": "azu",
+                    "name": "azul"
+                },
+                "flight": {
+                    "iataNumber": "ad2918",
+                    "icaoNumber": "azu2918",
+                    "number": "2918"
+                }
+            },
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T17:30:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "G33699",
+                "icaoNumber": "GLO3699",
+                "number": "3699"
+            },
+            "status": "scheduled",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E493E8",
+                "icaoCode": "AT76",
+                "regNumber": "PR-AKL"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "MII",
+                "icaoCode": "SBML",
+                "scheduledTime": "2026-02-16T18:35:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T17:30:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD2918",
+                "icaoNumber": "AZU2918",
+                "number": "2918"
+            },
+            "status": "scheduled",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E492A5",
+                "icaoCode": "A20N",
+                "regNumber": "PR-YRC"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "CGB",
+                "icaoCode": "SBCY",
+                "scheduledTime": "2026-02-16T18:45:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T17:35:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD4239",
+                "icaoNumber": "AZU4239",
+                "number": "4239"
+            },
+            "status": "scheduled",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E49AE9",
+                "icaoCode": "AT76",
+                "regNumber": "PR-YXT"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "LDB",
+                "icaoCode": "SBLO",
+                "scheduledTime": "2026-02-16T19:10:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T17:45:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD4584",
+                "icaoNumber": "AZU4584",
+                "number": "4584"
+            },
+            "status": "scheduled",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E49388",
+                "icaoCode": "A20N",
+                "regNumber": "PR-YYC"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "GYN",
+                "icaoCode": "SBGO",
+                "scheduledTime": "2026-02-16T19:20:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T17:50:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD2960",
+                "icaoNumber": "AZU2960",
+                "number": "2960"
+            },
+            "status": "scheduled",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "",
+                "icaoCode": "295",
+                "regNumber": ""
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "BSB",
+                "icaoCode": "SBBR",
+                "scheduledTime": "2026-02-16T19:25:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T17:50:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD4548",
+                "icaoNumber": "AZU4548",
+                "number": "4548"
+            },
+            "status": "scheduled",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "",
+                "icaoCode": "738",
+                "regNumber": ""
+            },
+            "airline": {
+                "iataCode": "CM",
+                "icaoCode": "CMP",
+                "name": "Copa Airlines"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "BSB",
+                "icaoCode": "SBBR",
+                "scheduledTime": "2026-02-16T19:40:00.000",
+                "terminal": null
+            },
+            "codeshared": {
+                "airline": {
+                    "iataCode": "g3",
+                    "icaoCode": "glo",
+                    "name": "gol"
+                },
+                "flight": {
+                    "iataNumber": "g31173",
+                    "icaoNumber": "glo1173",
+                    "number": "1173"
+                }
+            },
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T17:55:00.000",
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T17:55:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "CM3745",
+                "icaoNumber": "CMP3745",
+                "number": "3745"
+            },
+            "status": "scheduled",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "",
+                "icaoCode": "738",
+                "regNumber": ""
+            },
+            "airline": {
+                "iataCode": "G3",
+                "icaoCode": "GLO",
+                "name": "Gol"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "BSB",
+                "icaoCode": "SBBR",
+                "scheduledTime": "2026-02-16T19:40:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": "2026-02-16T17:55:00.000",
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T17:55:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "G31173",
+                "icaoNumber": "GLO1173",
+                "number": "1173"
+            },
+            "status": "scheduled",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E49D21",
+                "icaoCode": "E295",
+                "regNumber": "PS-AEQ"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "CGR",
+                "icaoCode": "SBCG",
+                "scheduledTime": "2026-02-16T18:40:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T18:00:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD2742",
+                "icaoNumber": "AZU2742",
+                "number": "2742"
+            },
+            "status": "scheduled",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E4962E",
+                "icaoCode": "A21N",
+                "regNumber": "PR-YJD"
+            },
+            "airline": {
+                "iataCode": "TP",
+                "icaoCode": "TAP",
+                "name": "TAP Air Portugal"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "REC",
+                "icaoCode": "SBRF",
+                "scheduledTime": "2026-02-16T21:05:00.000",
+                "terminal": null
+            },
+            "codeshared": {
+                "airline": {
+                    "iataCode": "ad",
+                    "icaoCode": "azu",
+                    "name": "azul"
+                },
+                "flight": {
+                    "iataNumber": "ad4400",
+                    "icaoNumber": "azu4400",
+                    "number": "4400"
+                }
+            },
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T18:00:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "TP6063",
+                "icaoNumber": "TAP6063",
+                "number": "6063"
+            },
+            "status": "scheduled",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E4962E",
+                "icaoCode": "A21N",
+                "regNumber": "PR-YJD"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "REC",
+                "icaoCode": "SBRF",
+                "scheduledTime": "2026-02-16T21:05:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T18:00:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD4400",
+                "icaoNumber": "AZU4400",
+                "number": "4400"
+            },
+            "status": "scheduled",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E49F22",
+                "icaoCode": "A332",
+                "regNumber": "PR-AIN"
+            },
+            "airline": {
+                "iataCode": "TP",
+                "icaoCode": "TAP",
+                "name": "TAP Air Portugal"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "LIS",
+                "icaoCode": "LPPT",
+                "scheduledTime": "2026-02-17T07:00:00.000",
+                "terminal": "1"
+            },
+            "codeshared": {
+                "airline": {
+                    "iataCode": "ad",
+                    "icaoCode": "azu",
+                    "name": "azul"
+                },
+                "flight": {
+                    "iataNumber": "ad8750",
+                    "icaoNumber": "azu8750",
+                    "number": "8750"
+                }
+            },
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T18:10:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "TP5000",
+                "icaoNumber": "TAP5000",
+                "number": "5000"
+            },
+            "status": "scheduled",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E49F22",
+                "icaoCode": "A332",
+                "regNumber": "PR-AIN"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "LIS",
+                "icaoCode": "LPPT",
+                "scheduledTime": "2026-02-17T07:00:00.000",
+                "terminal": "1"
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T18:10:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD8750",
+                "icaoNumber": "AZU8750",
+                "number": "8750"
+            },
+            "status": "scheduled",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E49A96",
+                "icaoCode": "E295",
+                "regNumber": "PS-AEO"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "FLN",
+                "icaoCode": "SBFL",
+                "scheduledTime": "2026-02-16T19:45:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T18:30:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD2778",
+                "icaoNumber": "AZU2778",
+                "number": "2778"
+            },
+            "status": "scheduled",
+            "type": "departure"
+        },
+        {
+            "aircraft": {
+                "icao24": "E491A9",
+                "icaoCode": "AT76",
+                "regNumber": "PR-AKA"
+            },
+            "airline": {
+                "iataCode": "AD",
+                "icaoCode": "AZU",
+                "name": "Azul"
+            },
+            "arrival": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "CWB",
+                "icaoCode": "SBCT",
+                "scheduledTime": "2026-02-16T19:50:00.000",
+                "terminal": null
+            },
+            "codeshared": null,
+            "departure": {
+                "actualRunway": null,
+                "actualTime": null,
+                "baggage": null,
+                "delay": null,
+                "estimatedRunway": null,
+                "estimatedTime": null,
+                "gate": null,
+                "iataCode": "VCP",
+                "icaoCode": "SBKP",
+                "scheduledTime": "2026-02-16T18:35:00.000",
+                "terminal": null
+            },
+            "flight": {
+                "iataNumber": "AD9012",
+                "icaoNumber": "AZU9012",
+                "number": "9012"
+            },
+            "status": "scheduled",
+            "type": "departure"
+        }
+    ]
+}

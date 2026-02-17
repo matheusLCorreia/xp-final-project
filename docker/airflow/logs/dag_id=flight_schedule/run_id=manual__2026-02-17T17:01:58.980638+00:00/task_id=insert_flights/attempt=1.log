@@ -1,0 +1,4 @@
+{"timestamp":"2026-02-17T17:02:05.457369Z","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager","filename":"manager.py","lineno":179}
+{"timestamp":"2026-02-17T17:02:05.460791Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/flight_schedule.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-02-17T17:02:09.225358Z","level":"info","event":"not all arguments converted during string formatting","logger":"task.stdout"}
+{"timestamp":"2026-02-17T17:02:09.225265Z","level":"error","event":"Task exited","exit_code":1,"logger":"task","filename":"task_runner.py","lineno":1138}

@@ -1,0 +1,80 @@
+{"timestamp":"2026-02-16T15:02:04.682153Z","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager","filename":"manager.py","lineno":179}
+{"timestamp":"2026-02-16T15:02:04.682595Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/extract_flight_schedule_bronze.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-02-16T15:02:04.787327Z","level":"info","event":"total 20","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.787528Z","level":"info","event":"drwxr-xr-x 2 root root 4096 Feb  7 21:18 plugins","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.787626Z","level":"info","event":"drwxrwxrwx 2 root root 4096 Feb  8 12:59 config","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.787714Z","level":"info","event":"drwxr-xr-x 3 root root 4096 Feb 16 14:24 dags","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.787796Z","level":"info","event":"drwxr-xr-x 3 root root 4096 Feb 16 14:33 data","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.787877Z","level":"info","event":"drwxr-xr-x 6 root root 4096 Feb 16 14:51 logs","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.787957Z","level":"info","event":" 0","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.790340Z","level":"info","event":"total 20","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.790544Z","level":"info","event":"drwxr-xr-x 2 root root 4096 Feb  7 21:18 plugins","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.790641Z","level":"info","event":"drwxrwxrwx 2 root root 4096 Feb  8 12:59 config","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.790726Z","level":"info","event":"drwxr-xr-x 3 root root 4096 Feb 16 14:24 dags","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.790808Z","level":"info","event":"drwxr-xr-x 3 root root 4096 Feb 16 14:33 data","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.790887Z","level":"info","event":"drwxr-xr-x 6 root root 4096 Feb 16 14:51 logs","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.790965Z","level":"info","event":" 0","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.793209Z","level":"info","event":"total 20","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.793411Z","level":"info","event":"drwxr-xr-x 2 root root 4096 Feb  7 21:18 plugins","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.793508Z","level":"info","event":"drwxrwxrwx 2 root root 4096 Feb  8 12:59 config","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.793595Z","level":"info","event":"drwxr-xr-x 3 root root 4096 Feb 16 14:24 dags","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.793676Z","level":"info","event":"drwxr-xr-x 3 root root 4096 Feb 16 14:33 data","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.793756Z","level":"info","event":"drwxr-xr-x 6 root root 4096 Feb 16 14:51 logs","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.793835Z","level":"info","event":" 0","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.795988Z","level":"info","event":"total 20","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.796207Z","level":"info","event":"drwxr-xr-x 2 root root 4096 Feb  7 21:18 plugins","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.796311Z","level":"info","event":"drwxrwxrwx 2 root root 4096 Feb  8 12:59 config","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.796398Z","level":"info","event":"drwxr-xr-x 3 root root 4096 Feb 16 14:24 dags","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.796481Z","level":"info","event":"drwxr-xr-x 3 root root 4096 Feb 16 14:33 data","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.796561Z","level":"info","event":"drwxr-xr-x 6 root root 4096 Feb 16 14:51 logs","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.796641Z","level":"info","event":" 0","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.798730Z","level":"info","event":"total 20","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.798948Z","level":"info","event":"drwxr-xr-x 2 root root 4096 Feb  7 21:18 plugins","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.799079Z","level":"info","event":"drwxrwxrwx 2 root root 4096 Feb  8 12:59 config","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.799177Z","level":"info","event":"drwxr-xr-x 3 root root 4096 Feb 16 14:24 dags","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.799267Z","level":"info","event":"drwxr-xr-x 3 root root 4096 Feb 16 14:33 data","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.799357Z","level":"info","event":"drwxr-xr-x 6 root root 4096 Feb 16 14:51 logs","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.799444Z","level":"info","event":" 0","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.801825Z","level":"info","event":"total 20","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.802050Z","level":"info","event":"drwxr-xr-x 2 root root 4096 Feb  7 21:18 plugins","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.802157Z","level":"info","event":"drwxrwxrwx 2 root root 4096 Feb  8 12:59 config","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.802248Z","level":"info","event":"drwxr-xr-x 3 root root 4096 Feb 16 14:24 dags","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.802333Z","level":"info","event":"drwxr-xr-x 3 root root 4096 Feb 16 14:33 data","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.802416Z","level":"info","event":"drwxr-xr-x 6 root root 4096 Feb 16 14:51 logs","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.802497Z","level":"info","event":" 0","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.804953Z","level":"info","event":"total 20","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.805143Z","level":"info","event":"drwxr-xr-x 2 root root 4096 Feb  7 21:18 plugins","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.805201Z","level":"info","event":"drwxrwxrwx 2 root root 4096 Feb  8 12:59 config","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.805247Z","level":"info","event":"drwxr-xr-x 3 root root 4096 Feb 16 14:24 dags","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.805288Z","level":"info","event":"drwxr-xr-x 3 root root 4096 Feb 16 14:33 data","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.805329Z","level":"info","event":"drwxr-xr-x 6 root root 4096 Feb 16 14:51 logs","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.805369Z","level":"info","event":" 0","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.807821Z","level":"info","event":"total 20","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.807967Z","level":"info","event":"drwxr-xr-x 2 root root 4096 Feb  7 21:18 plugins","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.808026Z","level":"info","event":"drwxrwxrwx 2 root root 4096 Feb  8 12:59 config","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.808080Z","level":"info","event":"drwxr-xr-x 3 root root 4096 Feb 16 14:24 dags","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.808123Z","level":"info","event":"drwxr-xr-x 3 root root 4096 Feb 16 14:33 data","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.808161Z","level":"info","event":"drwxr-xr-x 6 root root 4096 Feb 16 14:51 logs","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.808201Z","level":"info","event":" 0","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.810693Z","level":"info","event":"total 20","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.810868Z","level":"info","event":"drwxr-xr-x 2 root root 4096 Feb  7 21:18 plugins","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.810975Z","level":"info","event":"drwxrwxrwx 2 root root 4096 Feb  8 12:59 config","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.811093Z","level":"info","event":"drwxr-xr-x 3 root root 4096 Feb 16 14:24 dags","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.811185Z","level":"info","event":"drwxr-xr-x 3 root root 4096 Feb 16 14:33 data","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.811295Z","level":"info","event":"drwxr-xr-x 6 root root 4096 Feb 16 14:51 logs","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.811394Z","level":"info","event":" 0","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.813836Z","level":"info","event":"total 20","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.814061Z","level":"info","event":"drwxr-xr-x 2 root root 4096 Feb  7 21:18 plugins","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.814174Z","level":"info","event":"drwxrwxrwx 2 root root 4096 Feb  8 12:59 config","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.814269Z","level":"info","event":"drwxr-xr-x 3 root root 4096 Feb 16 14:24 dags","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.814360Z","level":"info","event":"drwxr-xr-x 3 root root 4096 Feb 16 14:33 data","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.814447Z","level":"info","event":"drwxr-xr-x 6 root root 4096 Feb 16 14:51 logs","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.814533Z","level":"info","event":" 0","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.816841Z","level":"info","event":"total 20","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.817024Z","level":"info","event":"drwxr-xr-x 2 root root 4096 Feb  7 21:18 plugins","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.817145Z","level":"info","event":"drwxrwxrwx 2 root root 4096 Feb  8 12:59 config","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.817241Z","level":"info","event":"drwxr-xr-x 3 root root 4096 Feb 16 14:24 dags","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.817331Z","level":"info","event":"drwxr-xr-x 3 root root 4096 Feb 16 14:33 data","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.817419Z","level":"info","event":"drwxr-xr-x 6 root root 4096 Feb 16 14:51 logs","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.817505Z","level":"info","event":" 0","logger":"task.stdout"}
+{"timestamp":"2026-02-16T15:02:04.816843Z","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.decorators.python._PythonDecoratedOperator","filename":"python.py","lineno":230}
