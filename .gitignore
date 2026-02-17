@@ -1,0 +1,5 @@
+# Ignore logs
+docker/airflow/logs/*
+docker/airflow/data/*
+
+kubernetes/*
