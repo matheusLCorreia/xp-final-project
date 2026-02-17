@@ -17,12 +17,12 @@ fields = ['identifier', 'aircraft_icao24', 'aircraft_icaocode', 'aircraft_regnum
 
 
 @dag(
-    dag_id="flight_schedule",
+    dag_id="evening_processing",
     start_date=pendulum.datetime(2026, 1, 9, tz="UTC"),
     tags=["xp-project", "current_day"],
     schedule='@daily'
 )
-def current_flight_schedule():    
+def evening_processing():    
     @task
     def load_flights_today():
         BRONZE_FOLDER = os.getenv('BRONZE_LAYER_FOLDER')
@@ -78,7 +78,7 @@ def current_flight_schedule():
             try:
                 
                 line.append(f"{str(row['departure_iatacode'])}_{str(row['flight_number'])}")
-                for f in fields:
+                for f in fields[1:]: # ignoring first field. 
                     if f in list(row.keys()):
                         if row[f] in [None, 'None', 'null', ""]:
                             line.append(None)
@@ -102,8 +102,6 @@ def current_flight_schedule():
         
         try:
             new_data = format_data(flights_data)
-            print("AQUIIIII")
-            print(new_data[:5])
             cur.executemany(query, new_data)
             # execute_values(cur, query, new_data)
         except Exception as error:
@@ -116,4 +114,4 @@ def current_flight_schedule():
     
     insert_flights(load_flights_today())
     
-current_flight_schedule()
+evening_processing()
