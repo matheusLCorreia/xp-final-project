@@ -219,3 +219,11 @@
 {"timestamp":"2026-02-17T17:17:47.826900Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/flight_schedule.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
 {"timestamp":"2026-02-17T17:18:20.393850Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/flight_schedule.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
 {"timestamp":"2026-02-17T17:18:53.257324Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/flight_schedule.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-02-17T17:19:26.298568Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/flight_schedule.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-02-17T17:19:58.764479Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/flight_schedule.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-02-17T17:20:31.723803Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/flight_schedule.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-02-17T17:21:04.492581Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/flight_schedule.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-02-17T17:21:37.114644Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/flight_schedule.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-02-17T17:22:09.727723Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/flight_schedule.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-02-17T17:22:42.569109Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/flight_schedule.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-02-17T17:23:15.354432Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/flight_schedule.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}

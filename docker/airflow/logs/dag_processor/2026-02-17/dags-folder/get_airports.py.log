@@ -213,3 +213,12 @@
 {"timestamp":"2026-02-17T17:17:58.397401Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/get_airports.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
 {"timestamp":"2026-02-17T17:18:28.897851Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/get_airports.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
 {"timestamp":"2026-02-17T17:18:59.683602Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/get_airports.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-02-17T17:19:30.016806Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/get_airports.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-02-17T17:20:00.817974Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/get_airports.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-02-17T17:20:31.752389Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/get_airports.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-02-17T17:21:02.237891Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/get_airports.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-02-17T17:21:32.803730Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/get_airports.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-02-17T17:22:03.341788Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/get_airports.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-02-17T17:22:34.129880Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/get_airports.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-02-17T17:23:04.843781Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/get_airports.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-02-17T17:23:35.674151Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/get_airports.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
