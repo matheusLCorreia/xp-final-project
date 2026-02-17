@@ -1,3 +1,0 @@
-{"timestamp":"2026-02-17T13:48:11.324061Z","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager","filename":"manager.py","lineno":179}
-{"timestamp":"2026-02-17T13:48:11.324411Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/flight_schedule.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
-{"timestamp":"2026-02-17T13:48:11.849876Z","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.decorators.python._PythonDecoratedOperator","filename":"python.py","lineno":230}

@@ -1,4 +1,0 @@
-{"timestamp":"2026-02-16T14:54:52.876081Z","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager","filename":"manager.py","lineno":179}
-{"timestamp":"2026-02-16T14:54:52.876486Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/extract_flight_schedule_bronze.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
-{"timestamp":"2026-02-16T14:54:55.610357Z","level":"info","event":"[Errno 2] No such file or directory: '/opt/airflow/data/bronze/VCP_2026_02_16.json'","logger":"task.stdout"}
-{"timestamp":"2026-02-16T14:54:55.610228Z","level":"error","event":"Task exited","exit_code":1,"logger":"task","filename":"task_runner.py","lineno":1138}
