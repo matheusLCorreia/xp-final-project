@@ -1,5 +1,7 @@
 # Ignore logs
-docker/airflow/logs/*
-docker/airflow/data/*
+docker/airflow/logs/
+docker/airflow/data/
 
-kubernetes/*
+kubernetes/
+
+example_arrivals_campinas.json
