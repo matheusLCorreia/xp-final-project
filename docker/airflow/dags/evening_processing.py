@@ -11,16 +11,22 @@ import psycopg2
 import sys
 import pandas as pd
 from psycopg2.extras import execute_values
-
+from zoneinfo import ZoneInfo
 
 fields = ['identifier', 'aircraft_icao24', 'aircraft_icaocode', 'aircraft_regnumber', 'airline_iatacode', 'airline_icaocode', 'airline_name', 'arrival_actualrunway', 'arrival_actualtime', 'arrival_baggage', 'arrival_delay', 'arrival_estimatedrunway', 'arrival_estimatedtime', 'arrival_gate', 'arrival_iatacode', 'arrival_icaocode', 'arrival_scheduledtime', 'arrival_terminal', 'codeshared_airline_iatacode', 'codeshared_airline_icaocode', 'codeshared_airline_name', 'codeshared_flight_iatanumber', 'codeshared_flight_icaonumber', 'codeshared_flight_number', 'departure_actualrunway', 'departure_actualtime', 'departure_baggage', 'departure_delay', 'departure_estimatedrunway', 'departure_estimatedtime', 'departure_gate', 'departure_iatacode', 'departure_icaocode', 'departure_scheduledtime', 'departure_terminal', 'flight_iatanumber', 'flight_icaonumber', 'flight_number', 'status', "type"]
 
+tz = ZoneInfo('America/Sao_Paulo')
+current_date = datetime.datetime.now(tz=tz)
+_day = current_date.strftime('%d')
+_month = current_date.strftime('%m')
+_year = current_date.strftime('%Y')
+_hour = current_date.hour
 
 @dag(
     dag_id="evening_processing",
     start_date=pendulum.datetime(2026, 1, 9, tz="UTC"),
     tags=["xp-project", "current_day"],
-    schedule='@daily'
+    # schedule='@daily'
 )
 def evening_processing():    
     @task
@@ -28,16 +34,17 @@ def evening_processing():
         BRONZE_FOLDER = os.getenv('BRONZE_LAYER_FOLDER')
         
         iata_codes = ['VCP', 'GRU', 'CGH', 'BSB']
-        current_date = datetime.datetime.now()
-        _day = current_date.strftime('%d')
-        _month = current_date.strftime('%m')
-        _year = current_date.strftime('%Y')
-        # _hour = current_date.strftime('%H')
-        # _minute = current_date.strftime('%M')
+        # current_date = datetime.datetime.now()
+        # _day = current_date.strftime('%d')
+        # _month = current_date.strftime('%m')
+        # _year = current_date.strftime('%Y')
+        # _hour = current_date.hour
+        # # _minute = current_date.strftime('%M')
         
+        tag = 'evening' if _hour >= 12 else 'morning'
         hist = []
         for airport in iata_codes:
-            data = open(f"{BRONZE_FOLDER}/{airport}_{_year}{_month}{_day}.json", "r")
+            data = open(f"{BRONZE_FOLDER}/{airport}_{_year}{_month}{_day}_{tag}.json", "r")
             hist.extend(json.loads(data.read())['data'])
                 
             data.close()
@@ -94,7 +101,7 @@ def evening_processing():
     @task
     def insert_flights(flights_data):
         
-        query = f"""INSERT INTO public.flights ({','.join(fields)}) VALUES ({','.join(["%s" for i in fields])})"""
+        query = f"""INSERT INTO public.raw_flights ({','.join(fields)}) VALUES ({','.join(["%s" for i in fields])})"""
 
         postgres_hook = PostgresHook(postgres_conn_id="aviation_postres")
         conn = postgres_hook.get_conn()

@@ -1,21 +1,25 @@
 import datetime
 import pendulum
 import os
-
-import requests as r
-import unidecode
+# import requests as r
+# import unidecode
 from airflow.sdk import dag, task
 from airflow.providers.postgres.hooks.postgres import PostgresHook
 import json
-import psycopg2
+# import psycopg2
 import sys
 import pandas as pd
-from psycopg2.extras import execute_values
-
+# from psycopg2.extras import execute_values
+from zoneinfo import ZoneInfo
 
 fields = ['identifier', 'aircraft_icao24', 'aircraft_icaocode', 'aircraft_regnumber', 'airline_iatacode', 'airline_icaocode', 'airline_name', 'arrival_actualrunway', 'arrival_actualtime', 'arrival_baggage', 'arrival_delay', 'arrival_estimatedrunway', 'arrival_estimatedtime', 'arrival_gate', 'arrival_iatacode', 'arrival_icaocode', 'arrival_scheduledtime', 'arrival_terminal', 'codeshared_airline_iatacode', 'codeshared_airline_icaocode', 'codeshared_airline_name', 'codeshared_flight_iatanumber', 'codeshared_flight_icaonumber', 'codeshared_flight_number', 'departure_actualrunway', 'departure_actualtime', 'departure_baggage', 'departure_delay', 'departure_estimatedrunway', 'departure_estimatedtime', 'departure_gate', 'departure_iatacode', 'departure_icaocode', 'departure_scheduledtime', 'departure_terminal', 'flight_iatanumber', 'flight_icaonumber', 'flight_number', 'status', "type"]
-
-
+tz = ZoneInfo('America/Sao_Paulo')
+current_date = datetime.datetime.now(tz=tz)
+_day = current_date.strftime('%d')
+_month = current_date.strftime('%m')
+_year = current_date.strftime('%Y')
+_hour = current_date.hour
+        
 @dag(
     dag_id="morning_processing",
     start_date=pendulum.datetime(2026, 1, 9, tz="America/Sao_Paulo"),
@@ -29,21 +33,14 @@ def morning_processing():
         BRONZE_FOLDER = os.getenv('BRONZE_LAYER_FOLDER')
         
         iata_codes = ['VCP', 'GRU', 'CGH', 'BSB']
-        current_date = datetime.datetime.now()
-        _day = current_date.strftime('%d')
-        _month = current_date.strftime('%m')
-        _year = current_date.strftime('%Y')
-        _hour = current_date.hour
-        # _minute = current_date.strftime('%M')
         
         hist = []
         for airport in iata_codes:
             tag = 'evening' if _hour >= 12 else 'morning'
-            data = open(f"{BRONZE_FOLDER}/{airport}_{_year}{_month}{_day}_{tag}.json", "r")
-            hist.extend(json.loads(data.read())['data'])
-                
-            data.close()
-            
+            with open(f"{BRONZE_FOLDER}/{airport}_{_year}{_month}{_day}_{tag}.json", "r") as data:
+                # if 'data' not in json.loads(data.read()).keys(): print("Data not found.")
+                hist.extend(json.loads(data.read())['data'])
+                            
         # return hist
         print("LEN ANTES: ",len(hist))
         res = transform_flights(hist)
@@ -79,7 +76,7 @@ def morning_processing():
             line = []
             try:
                 
-                line.append(f"{str(row['departure_iatacode'])}_{str(row['flight_number'])}")
+                line.append(f"{str(row['departure_iatacode'])}_{str(row['flight_number'])}") #_{_year}{_month}{_day}")
                 for f in fields[1:]: # ignoring first field. 
                     if f in list(row.keys()):
                         if row[f] in [None, 'None', 'null', ""]:
@@ -146,11 +143,12 @@ def morning_processing():
                 departure_icaocode = EXCLUDED.departure_icaocode,
                 departure_scheduledtime = EXCLUDED.departure_scheduledtime,
                 departure_terminal = EXCLUDED.departure_terminal,
-                status = EXCLUDED.status;
+                status = EXCLUDED.status,
+                updated_at = current_timestamp;
             """
             
             # cur.execute(upsert_query)
-            cur.executemany(query, new_data)
+            cur.executemany(upsert_query, new_data)
             conn.commit()
         except Exception as error:
             print(error)
