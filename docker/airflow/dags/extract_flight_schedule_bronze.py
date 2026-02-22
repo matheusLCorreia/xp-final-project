@@ -17,8 +17,8 @@ tz = ZoneInfo('America/Sao_Paulo')
     start_date=pendulum.datetime(2026, 1, 9, tz="America/Sao_Paulo"),
     catchup=False,
     dagrun_timeout=datetime.timedelta(minutes=60),
-    tags=["xp-project", "current_day"],
-    schedule='5 8,16 * * *'
+    tags=["xp-project", "extract"],
+    # schedule='5 8,16 * * *'
 )
 def extract_flight_schedule_bronze():    
     @task
@@ -34,7 +34,8 @@ def extract_flight_schedule_bronze():
         # _minute = current_date.strftime('%M')
         
         for airport in iata_codes:
-            res = r.get(url=f'https://api.aviationstack.com/v1/timetable?iataCode={airport}&type=departure', params={'access_key': 'ed8f574d48663933f8e46afc4d497b07'})
+            # ed8f574d48663933f8e46afc4d497b07
+            res = r.get(url=f'https://api.aviationstack.com/v1/timetable?iataCode={airport}&type=departure', params={'access_key': 'bdc876930322613053834c5f0cea553d'})
             try:
                 tag = 'evening' if _hour >= 12 else 'morning'
                 save = open(f"{BRONZE_FOLDER}/{airport}_{_year}{_month}{_day}_{tag}.json", "w")
